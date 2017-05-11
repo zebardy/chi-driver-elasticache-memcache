@@ -39,7 +39,7 @@ CHI::Driver::Elasticache::Memcache is a driver for CHI that allows CHI to make u
 
 =head1 SEE ALSO
 
-[CHI](https://metacpan.org/pod/CHI), [Cache::Elasticache::Memcache](https://metacpan.org/pod/Cache::Elasticache::Memcache), [CHI::Driver::Memcached](https://metacpan.org/pod/CHI::Driver::Memcached), [Cache::Memacached::Fast](https://metacpan.org/pod/Cache::Memacached::Fast)
+L<CHI>, L<Cache::Elasticache::Memcache>, L<CHI::Driver::Memcached>, L<Cache::Memacached::Fast>
 
 =head1 AUTHOR
 
@@ -53,7 +53,5 @@ Copyright 2016- Aaron Moses
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
-
-=head1 SEE ALSO
 
 =cut
