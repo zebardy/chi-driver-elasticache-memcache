@@ -8,3 +8,4 @@ MYMETA.*
 /blib
 cpanfile.snapshot
 /local
+.perl-version
