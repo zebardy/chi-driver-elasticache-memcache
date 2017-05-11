@@ -54,4 +54,8 @@ Copyright 2016- Aaron Moses
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
+=head1 WARRANTY
+
+There's B<NONE>, neither explicit nor implied.
+
 =cut

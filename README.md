@@ -32,3 +32,7 @@ Copyright 2016- Aaron Moses
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
+
+# WARRANTY
+
+There's **NONE**, neither explicit nor implied.
