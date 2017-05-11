@@ -1,14 +1,14 @@
 # NAME
 
-chi::driver::elasticache::memcache - Blah blah blah
+CHI::Driver::Elasticache::Memcache - Blah blah blah
 
 # SYNOPSIS
 
-    use chi::driver::elasticache::memcache;
+    use CHI::Driver::Elasticache::Memcache;
 
 # DESCRIPTION
 
-chi::driver::elasticache::memcache is
+CHI::Driver::Elasticache::Memcache is
 
 # AUTHOR
 

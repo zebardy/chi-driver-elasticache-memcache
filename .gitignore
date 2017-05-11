@@ -5,3 +5,6 @@
 MYMETA.*
 !META.json
 /.prove
+/blib
+cpanfile.snapshot
+/local
